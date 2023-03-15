@@ -9,4 +9,4 @@
 ### Education
 - I attend Metropolitan State University of Denver where I am persuing a Certificate of Geographic Information Systems (GIS).
 - I previously graduated from Colorado State University with a Bachelor of Science in Natural Resource Recreation and Tourism, with a concentration in Parks and Protected Areas Management.
-- I envision applying this internship and my certificate to a great job or a Master's degree where I can monitor natural resources and be a GIS wizard who can use python to interpret the data!
+- I envision applying this internship and my certificate to a job or a Master's degree where I can monitor natural resources and be a GIS and python wizard to interpret the data!
