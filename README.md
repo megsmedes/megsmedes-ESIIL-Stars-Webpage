@@ -4,4 +4,4 @@
 
 *Exploring the Chesapeake Bay Shoreline (and yes, I do watch Mandalorian)*
 ### [Meghan Smedes on Linkedin](https://www.linkedin.com/in/meghan-smedes-4008586?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvyDu%2BOc%2BSL2hIYtFP5mLWA%3D%3D)
-### [Email Meghan](msmedes@msudenver.edu)
+### Email Meghan at msmedes@msudenver.edu
