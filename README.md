@@ -17,4 +17,7 @@ It was toward the end of this job that I chose to stay at home with my two kids 
 
 Now, everyone is back to school and they are older and more independent, so it is my turn to pursue learning and the next part of my career path. I have always found Geographic Information Systems fascinating and it is a valued skill in many natural resource / environmental jobs. So, I joined Metro to persue my GIS Certificate.  I envision applying the ESIIL Stars Internship and my certificate to a job or a Master's degree where I can monitor natural resources and interpret the data as a GIS / python wizard! 
 
-<img src="https://user-images.githubusercontent.com/127235615/225464201-98604864-1a99-4a5d-8aba-6e3504e437c9.jpg" width="25%" height="25%"> <img src="
+<img src="WithChippy](https://user-images.githubusercontent.com/127235615/225471958-05e8b776-fe8e-414f-85c6-c3ffc32ab5d6.jpg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225472919-4ef08ed6-50e2-4c1a-828c-404f7548a4c1.jpg" width="40%" height="40%">
+ 
+
+
