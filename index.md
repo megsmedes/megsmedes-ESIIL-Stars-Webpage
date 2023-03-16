@@ -19,3 +19,15 @@ It was toward the end of this job that I chose to stay at home with my two kids 
 Now, everyone is back to school and they are older and more independent, so it is my turn to pursue learning and the next part of my career path. I have always found Geographic Information Systems fascinating and it is a valued skill in many natural resource / environmental jobs. So, I joined Metro to persue my GIS Certificate.  I envision applying the ESIIL Stars Internship and my certificate to a job or a Master's degree where I can monitor natural resources and interpret the data as a GIS / python wizard! 
 
 <img src="https://user-images.githubusercontent.com/127235615/225677288-4eae5cc9-143c-4790-8a8f-5177e510036c.jpg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225472919-4ef08ed6-50e2-4c1a-828c-404f7548a4c1.jpg" width="50%" height="50%">
+
+<img src="https://user-images.githubusercontent.com/127235615/225471958-05e8b776-fe8e-414f-85c6-c3ffc32ab5d6.jpg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225681331-4fc8a646-ee48-48dd-9b87-b56aefc13844.jpg" width="40%" height="40%">
+
+*Hatching chicks during the pandemic.* 
+
+## Excited for ESIIL Stars
+
+ <img src="https://user-images.githubusercontent.com/127235615/225688829-00d65c0d-e170-427d-8b31-191c7ff0018c.jpg" width="25%" height="25%"> 
+ 
+I am exited to learn python and other coding language as I know it is applicable to GIS and other programs.  I have already learned so much just by getting to build this website through github! 
+
+I want to gain experience with the processes of data collection and analysis.  I am mulling around some hypotheses to try and think of things we could study for the summer project.  I love plants, so I am thinking of how they could be incorporated.  I am glad to be here and I'm looking forward to working with all of you!
