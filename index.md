@@ -1,6 +1,6 @@
 ## Meghan Smedes
 
-## megsmedes-ESIIL-Stars-Webpage
+## Meghan's Mega Cool Site: an ESIIL Stars Website
 
 <img src="https://user-images.githubusercontent.com/127235615/225438645-063f0dc2-fe58-4e51-9df1-cad0498e6110.jpeg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225683106-349e7696-820b-4b57-b35b-7101e4616373.jpg" width="40%" height="40%">
 
