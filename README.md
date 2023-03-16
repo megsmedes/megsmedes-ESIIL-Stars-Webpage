@@ -20,6 +20,6 @@ Now, everyone is back to school and they are older and more independent, so it i
 
 <img src="https://user-images.githubusercontent.com/127235615/225471958-05e8b776-fe8e-414f-85c6-c3ffc32ab5d6.jpg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225472919-4ef08ed6-50e2-4c1a-828c-404f7548a4c1.jpg" width="50%" height="50%">
 
-**Hatching chicks during the pandemic.** 
+*Hatching chicks during the pandemic.* 
 
 
