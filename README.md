@@ -1,7 +1,7 @@
 # Meghan Smedes
 ## megsmedes-ESIIL-Stars-Webpage
 
-<img src="https://user-images.githubusercontent.com/127235615/225438645-063f0dc2-fe58-4e51-9df1-cad0498e6110.jpeg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225683106-349e7696-820b-4b57-b35b-7101e4616373.jpg" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/127235615/225438645-063f0dc2-fe58-4e51-9df1-cad0498e6110.jpeg" width="40%" height="40%"> <img src="https://user-images.githubusercontent.com/127235615/225683106-349e7696-820b-4b57-b35b-7101e4616373.jpg" width="40%" height="40%">
 
 *Exploring the Chesapeake Bay Shoreline (and yes, I do watch Mandalorian!), Exploring a Bamboo Forest in Maui with my family*
 - ### [Meghan Smedes on Linkedin](https://www.linkedin.com/in/meghan-smedes-4008586?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvyDu%2BOc%2BSL2hIYtFP5mLWA%3D%3D)
