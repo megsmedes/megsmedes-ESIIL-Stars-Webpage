@@ -22,4 +22,7 @@ Now, everyone is back to school and they are older and more independent, so it i
 
 *Hatching chicks during the pandemic.* 
 
+##Excited for ESIIL Stars
+I am exited to learn python and other coding language as I know it is applicable to GIS and other programs.  I have already learned so much just by getting to build this website through github!  
 
+I want to gain experience with the processes of data collection and analysis.  I am mulling around some hypotheses in my mind to try and think of things we could study for the summer project.  I love plants, so I am thinking of how they could be incorporated.  I am glad to be here and I looking forward to working with all of you!  
