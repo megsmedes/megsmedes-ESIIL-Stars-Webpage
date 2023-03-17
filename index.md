@@ -6,7 +6,7 @@
 
 *Exploring the Chesapeake Bay shoreline (and yes, I do watch Mandalorian!). Discovering a bamboo forest in Maui with my family.*
 - ### [Meghan Smedes on Linkedin](https://www.linkedin.com/in/meghan-smedes-4008586?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvyDu%2BOc%2BSL2hIYtFP5mLWA%3D%3D)
-- ### Email Meghan at msmedes@msudenver.edu
+- ### Email Meghan at msmedesatmsudenver.edu
 - ### [GISmedes](https://megsmedes.github.io/GISmedes/)
 ### Education
 - I attend Metropolitan State University of Denver where I am persuing a Certificate of Geographic Information Systems (GIS) as a Geography Major.
